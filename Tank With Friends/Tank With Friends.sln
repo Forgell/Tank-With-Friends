@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tank_With_Friends", "Tank With Friends\Tank_With_Friends\Tank_With_Friends.csproj", "{6272A394-8F74-4DED-AFCE-2A1AD90191BA}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Tank_With_FriendsContent", "Tank With Friends\Tank_With_FriendsContent\Tank_With_FriendsContent.contentproj", "{35CE7A1F-67CA-4DED-B176-D24FE8E23BFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6272A394-8F74-4DED-AFCE-2A1AD90191BA}.Debug|x86.ActiveCfg = Debug|x86
+		{6272A394-8F74-4DED-AFCE-2A1AD90191BA}.Debug|x86.Build.0 = Debug|x86
+		{6272A394-8F74-4DED-AFCE-2A1AD90191BA}.Release|x86.ActiveCfg = Release|x86
+		{6272A394-8F74-4DED-AFCE-2A1AD90191BA}.Release|x86.Build.0 = Release|x86
+		{35CE7A1F-67CA-4DED-B176-D24FE8E23BFC}.Debug|x86.ActiveCfg = Debug|x86
+		{35CE7A1F-67CA-4DED-B176-D24FE8E23BFC}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
